@@ -20,7 +20,7 @@ pip install torch torchvision torchaudio --index-url https://download.pytorch.or
 **Simulator preparation:**
 This project uses the Udacity Autonomous Driving Simulator, which can be downloaded and installed from the official Udacity repository or website.
 <p align="center">
-<img  width="594" alt="5e19e224d7bd5058798fdaf65e27815" src="https://github.com/Makabaka110/E2EAD/blob/main/assets/simulator.png">
+![ce0f351802ec6b16707466eb9b8c1e7](https://github.com/WentingMiao/End-to-End-autonomous-driving/assets/55959544/0ef4977e-0982-4543-9cb0-3f48298c9365)
 </p>
 
 
